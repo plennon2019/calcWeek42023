@@ -19,6 +19,7 @@ public class Calc {
 
         int total = firstNumber + secondNumber;
         System.out.println("The total is " + total);
+        System.out.println("Bye");
 
     }
     public static void delete()
